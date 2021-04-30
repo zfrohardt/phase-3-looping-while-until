@@ -1,4 +1,4 @@
-# While and until Lab
+# while and until Lab
 
 ## Objectives
 
